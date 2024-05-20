@@ -1,7 +1,3 @@
-Claro, aqui está uma versão mais atraente da descrição:
-
----
-
 🚗 **ApiCarroMongoDB**: Gerenciamento de Carros Simplificado com MongoDB 🚀
 
 O repositório "ApiCarroMongoDB" é o seu guia definitivo para construir uma API dinâmica e eficiente para gerenciar informações sobre carros, tudo isso aproveitando a potência e a flexibilidade do MongoDB como seu banco de dados.
